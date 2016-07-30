@@ -27,13 +27,13 @@ function nave_install() {
 # Global npm modules to install.
 npm_globals=(
   babel-cli
-  bower
-  grunt-cli
-  grunt-init
-  linken
+  # bower
+  # grunt-cli
+  # grunt-init
+  # linken
   node-inspector
-  pushstate-server
-  yo
+  # pushstate-server
+  # yo
 )
 
 # Update npm and install global modules.
